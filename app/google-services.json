@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "210875785618",
+    "firebase_url": "https://api-master-3fb49.firebaseio.com",
+    "project_id": "api-master-3fb49",
+    "storage_bucket": "api-master-3fb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210875785618:android:e6869efecd00cc44c4214b",
+        "android_client_info": {
+          "package_name": "com.bd.durbin.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210875785618-lfmndqcrpqq574s7l3usvhqqhkidif72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-slMB69AmnRoyJdHDYHYGk5XP_6GTLHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210875785618-lfmndqcrpqq574s7l3usvhqqhkidif72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210875785618:android:29b5568ccb3ab3c9c4214b",
+        "android_client_info": {
+          "package_name": "com.tbl.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210875785618-lfmndqcrpqq574s7l3usvhqqhkidif72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-slMB69AmnRoyJdHDYHYGk5XP_6GTLHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210875785618-lfmndqcrpqq574s7l3usvhqqhkidif72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210875785618:android:a64057c60a2ba0fec4214b",
+        "android_client_info": {
+          "package_name": "lock.file.youtubeapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210875785618-4lnpitcslpr3pou7se8bs8r2q48r07an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lock.file.youtubeapi",
+            "certificate_hash": "ba3f53d376a58efa61b18810fd166d97da038690"
+          }
+        },
+        {
+          "client_id": "210875785618-lfmndqcrpqq574s7l3usvhqqhkidif72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-slMB69AmnRoyJdHDYHYGk5XP_6GTLHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210875785618-lfmndqcrpqq574s7l3usvhqqhkidif72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
